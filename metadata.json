@@ -1,0 +1,6 @@
+{
+  "name": "Shakti AI",
+  "description": "Interactive System Architect Blueprint, Agent Simulations, Security Verification, and Sandbox console for Shakti AI Voice Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
